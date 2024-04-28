@@ -1,4 +1,4 @@
 # Foodies_Haven
 
-#Typescript setup
-#Typescript setup
+#This is a backend development app for food recipes
+#using nodejs, postgress database

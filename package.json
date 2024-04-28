@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "script.ts",
+  "type": "module",
   "scripts": {
     "start": "node dist/script.js",
     "dev": "tsx watch src/script.ts",

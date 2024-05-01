@@ -1,0 +1,28 @@
+{
+  "name": "foodies_haven",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.ts",
+  "type": "module",
+  "scripts": {
+    "start": "node dist/script.js",
+    "dev": "tsx watch src/script.ts",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesebune/Foodies_Haven.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesebune/Foodies_Haven/issues"
+  },
+  "homepage": "https://github.com/jamesebune/Foodies_Haven#readme",
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.7.3",
+    "typescript": "^5.4.5"
+  }
+}

@@ -1,7 +1,5 @@
 # Foodies_Haven
 
-This Foodies app is all food and their various recipes used in preparing them
+This is a backend development app for food recipes
+using nodejs, postgres database
 
-project requirement
-Node
-postgres DB

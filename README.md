@@ -1,7 +1,7 @@
 # Foodies_Haven
 
-#This Foodies app is all food and thier various receipes used in preparing them
+This Foodies app is all food and their various recipes used in preparing them
 
-#project requirement
-#Node
-#postgress DB
+project requirement
+Node
+postgres DB

@@ -8,7 +8,7 @@
     "start": "node dist/script.js",
     "dev": "tsx watch src/script.ts",
     "build": "tsc",
-    "lint": "eslint src/script.ts"
+    "lint": "eslint src/**/*.{ts,js}"
   },
   "repository": {
     "type": "git",

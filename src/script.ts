@@ -1,2 +1,3 @@
-let message: string = "Hello James!";
+const message: string = "Hello James!";
+// let age;
 console.log(message);

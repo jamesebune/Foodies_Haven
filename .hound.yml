@@ -1,3 +1,5 @@
 eslint:
   enabled: true
-  failOnViolation: true
+  fail_on_violation: true
+  config_file: eslint.config.js
+  ignore_file: .eslintignore

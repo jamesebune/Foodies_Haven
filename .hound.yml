@@ -1,0 +1,5 @@
+eslint:
+  enabled: true
+  config_file: eslint.config.js
+  ignore_file: .eslintignore
+fail_on_violation: true
